@@ -35,7 +35,7 @@ requirements, architecture, and technical decisions.
 
 ### Architecture and Business Requirements
 
-- [Document 03 - System Architecture and Source Code Organization (Approved v0.8)](https://docs.google.com/document/d/1X7_fxpgFv8Tr5zKibE5VR2N_IGnOFRap4rXufTA4Cio/edit)
+- [Document 03 - System Architecture and Source Code Organization (Approved v0.9)](https://docs.google.com/document/d/1X7_fxpgFv8Tr5zKibE5VR2N_IGnOFRap4rXufTA4Cio/edit)
 
 - [Document 04 - High-Level Domain Model (Approved v0.6)](https://docs.google.com/document/d/18ZobgV6DifdPb0DJV2Vd049gbThUap7sCwpSYCk5AVo/edit)
 
